@@ -1,0 +1,100 @@
+h1.contact-header {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 5%; 
+}
+
+
+.form-group {
+    margin: 15px 0;
+}
+
+.form-label1 {
+    color: white;
+  
+}
+
+
+input,
+textarea {
+    width: 100%; 
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #fff;
+    margin: 6px 0;
+    padding: 2px;
+    color: white;
+}
+
+
+.email, .msg, .name {
+    font-size: 1.2rem;
+    margin-top: 5%; 
+}
+.form-input1{
+    width: 50%;
+    margin-left: 5%;
+}
+.form-input2{
+    width: 50%;
+    margin-left: 5%;
+}
+.form-input3{
+    width: 50%;
+    margin-left: 5%;
+}
+.contact-card {
+    border: 1px solid white;
+    background-color: #0B192C;
+    width: 80%; 
+    max-width: 600px; 
+    height: auto; 
+    margin: 0 auto; 
+    padding: 20px;
+    text-align: center;
+    margin-top: 5%; 
+}
+
+.contact-button {
+    border: 3px solid white;
+    width: 25%;
+    height: 35px;
+    border-radius: 2px;
+    color: white;
+    margin-top: 15px;
+}
+.contact-button:hover{
+    background-color:#A998D4;
+}
+
+.location-header {
+    font-size: 2.5rem;
+    margin-top: 10%; 
+}
+
+.location {
+    font-size: 1.2rem;
+    margin-top: 5%; 
+}
+
+.contact-email {
+    font-size: 1.2rem;
+    margin-top: 10%; 
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.linkedin-logo,
+.github-logo {
+    width: 50px; 
+    margin: 0 15px; 
+}
+
+.social-links img {
+    width: 100%; 
+    max-width: 50px; 
+}

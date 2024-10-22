@@ -1,0 +1,115 @@
+.main{
+        font-family: roboto sans-serif;
+        font-size: 3rem;
+        margin-left: 45%;
+}
+.first-para{
+   font-size: 1.3rem;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-left: 3%;
+}
+
+
+
+
+.csd {
+    
+    
+    
+    margin-left: 1%;
+    height: 180px;
+    font-size: 1.2rem;
+   
+    font-family: 'poppins', sans-serif;
+    margin-top: 3%;
+    text-align: justify;
+    padding: 1%;
+   
+}
+
+
+
+.webdev{
+   
+   
+    
+    margin-left: 35%;
+    height: 180px;
+    font-size: 1.2rem;
+ 
+    font-family: 'poppins', sans-serif;
+    margin-top: 3%;
+    text-align: justify;
+    padding: 1%;
+   
+}
+
+.mobiledev{
+   margin-left: 1%;
+   margin-top: -2%;
+    height: 180px;
+    font-size: 1.2rem;
+ 
+    font-family: 'poppins', sans-serif;
+    margin-top: 3%;
+    text-align: justify;
+    padding: 1%;
+}
+.uiux {
+    margin-left: 35%;
+    height: 180px;
+    font-size: 1.2rem;
+    font-family: 'poppins', sans-serif;
+    margin-top: 3%;
+    text-align: justify;
+    padding: 1%;
+    margin-top: 5%;
+}
+
+
+
+.cis{
+   
+   font-size: 1.2rem;
+   font-family: 'poppins', sans-serif;
+    margin-top: 3%;
+    text-align: justify;
+    padding: 2%;
+}  
+.it{
+   
+   
+   
+    margin-left: 35%;
+   
+    font-size: 1.2rem;
+   
+    font-family: 'poppins', sans-serif;
+    margin-top: 3%;
+    text-align: justify;
+    padding: 1%;
+}
+.software-dev{
+    margin-left: 63%;
+    margin-top: -17%;
+}
+.web-dev{
+ margin-top: -16%;
+ margin-left: 5%;
+}
+.mobile-dev{
+    margin-left: 68%;
+    margin-top: -15%;
+}
+.uiux-dev{
+    margin-top: -11%;
+    margin-left: 5%;
+}
+.consult{
+    margin-top: -15%;
+    margin-left: 5%;
+}
+.cloud-dev{
+    margin-left: 65%;
+    margin-top: -18%;
+}
